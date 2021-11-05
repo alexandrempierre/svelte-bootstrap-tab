@@ -1,0 +1,2 @@
+Baseado em: https://getbootstrap.com/docs/5.0/components/navs-tabs/#javascript-behavior
+Livremente inspirado em: https://github.com/bestguy/sveltestrap
